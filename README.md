@@ -1,4 +1,4 @@
-***BeatBox: A Hand-Wearable Fitness Device for Fun and Productivity***
+# BeatBox: A Hand-Wearable Fitness Device for Fun and Productivity
 
 **Introducing BeatBox, the innovative hand-wearable fitness device that turns your workout into an interactive melody-making experience.**
 
