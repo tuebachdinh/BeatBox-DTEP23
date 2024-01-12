@@ -26,6 +26,10 @@ BeatBox utilizes the power of your punches to generate musical notes and illumin
 
 - Listen to the generated melody and enjoy the synchronized LED illumination.
 
+**User Scenerio**
+[![Gameplay Video](https://img.youtube.com/vi/1oRCBXBaxI4/maxresdefault.jpg)](https://youtu.be/1oRCBXBaxI4)
+
+
 **Benefits of Using BeatBox:**
 
 - Increased motivation and engagement: The interactive nature of BeatBox keeps you energized and focused, making workouts more enjoyable and motivating.
