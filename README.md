@@ -1,6 +1,7 @@
 # BeatBox - Personal Fitness Device 
 
 **Introduction:**
+
 BeatBox, the innovative hand-wearable fitness device that turns your workout into an interactive melody-making experience.
 
 BeatBox utilizes the power of your punches to generate musical notes and illuminate LEDs, transforming your physical activity into a captivating and engaging journey. With every punch, you'll create a rhythmic cascade of sounds and lights, adding a new dimension of excitement and motivation to your fitness routine.
