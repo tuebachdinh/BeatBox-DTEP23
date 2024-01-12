@@ -4,6 +4,8 @@
 
 BeatBox utilizes the power of your punches to generate musical notes and illuminate LEDs, transforming your physical activity into a captivating and engaging journey. With every punch, you'll create a rhythmic cascade of sounds and lights, adding a new dimension of excitement and motivation to your fitness routine.
 
+![Image of BeatBox device](BeatBox.png)
+
 **Key Features:**
 
 - Integrates punch motion with musical note generation: BeatBox detects your punch movements and translates them into corresponding musical notes, creating a unique and personalized soundtrack to your workout.
